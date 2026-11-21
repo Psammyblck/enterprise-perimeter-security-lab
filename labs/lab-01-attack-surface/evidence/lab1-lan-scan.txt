@@ -9,7 +9,18 @@ PORT   STATE SERVICE VERSION
 SF-Port80-TCP:V=7.94SVN%I=7%D=11/4%Time=6AEB24E6%P=x86_64-pc-linux-gnu%r(G
 SF:etRequest,8FA,"HTTP/1\.0\x20200\x200K\r\nSet-Cookie:\x20PHPSESSID=4e229
 SF:63fc0d50cb2f50c80e43ab3a178;\x20path=/;\x20HttpOnly;\x20SameSite=Lax\r\n
-SF:... [remaining service fingerprint lines omitted from this copy]
+SF:Set-Cookie:\x20PHPSESSID=4e22963fc0d50cb2f50c80e43ab3a178;\x20path=/;\x20HttpOnly\r\n
+SF:Expires:\x20Thu,\x2019\x20Nov\x202019\x2008:52:00\x20GMT\r\n
+SF:Cache-Control:\x20no-store,\x20no-cache,\x20must-revalidate\r\n
+SF:Pragma:\x20no-cache\r\n
+SF:Content-Security-Policy:\x20default-src\x20'self';\x20script-src\x20'self'\x20'unsafe-inline'\x20'unsafe-eval';\x20style-src\x20'self'\x20'unsafe-inline';\r\n
+SF:X-Frame-Options:\x20SAMEORIGIN\r\nX-Content-Type-Options:\x20nosniff\r\n
+SF:X-XSS-Protection:\x20
+SF:1;\x20mode=block\r\nReferrer-Policy:\x20same-origin\r\n
+SF:Content-Type:\x20text/html;\x20charset=UTF-8\r\n
+SF:Content-Length:\x201603\r\nConnection:\x20close\r\n
+SF:Date:\x20Wed,\x2004\x20Nov\x202026\x2004:28:21\x20GMT\r\n
+SF:Server:\x20OPNsense\r\n\r\n<!doctype html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta name=\"robots\" content=\"noindex, nofollow\">\n<title>403 Forbidden</title>\n</head>\n<body>\n<p>CSRF check failed.</p>\n</body>\n</html>");
 MAC Address: 08:00:27:31:94:3D (Oracle VirtualBox virtual NIC)
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
