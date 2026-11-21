@@ -19,9 +19,9 @@ This repository records practical work on how network security technologies work
 
 | Lab | Topic | Status |
 |---|---|---|
-| 01 | Attack Surface Mapping | To document |
-| 02 | Physical Security and Rogue-Device Detection | To document |
-| 03 | Three-Zone Network Architecture | Documentation in progress |
+| 01 | Attack Surface Mapping | Completed — documented |
+| 02 | Physical Security and Rogue-Device Detection | Completed — documentation pending |
+| 03 | Three-Zone Network Architecture | Completed — documentation pending |
 | 04 | Least-Privilege Firewall Rules and Rule-Base Audit | In progress |
 | 05 | Intrusion Detection with Suricata | Planned |
 | 06 | Site-to-Site and Remote-Access VPNs | Planned |
@@ -32,7 +32,7 @@ This repository records practical work on how network security technologies work
 | 11 | SIEM and Incident Investigation | Planned |
 | 12 | Enterprise Security Capstone | Planned |
 
-*Statuses will be updated as each lab is completed and documented.*
+*Statuses distinguish completed practical work from completed public documentation.*
 
 ## Documentation Approach
 
