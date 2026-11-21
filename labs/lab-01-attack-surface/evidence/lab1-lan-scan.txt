@@ -1,0 +1,16 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-11-04 12:28 UTC
+Nmap scan report for _gateway (10.10.10.1)
+Host is up (0.0056s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  Unbound 1.25.1
+80/tcp open  http    OPNsense
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.94SVN%I=7%D=11/4%Time=6AEB24E6%P=x86_64-pc-linux-gnu%r(G
+SF:etRequest,8FA,"HTTP/1\.0\x20200\x200K\r\nSet-Cookie:\x20PHPSESSID=4e229
+SF:63fc0d50cb2f50c80e43ab3a178;\x20path=/;\x20HttpOnly;\x20SameSite=Lax\r\n
+SF:... [remaining service fingerprint lines omitted from this copy]
+MAC Address: 08:00:27:31:94:3D (Oracle VirtualBox virtual NIC)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 65.51 seconds
